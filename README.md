@@ -189,6 +189,14 @@ We use:
 
 It's weird for me to say this but very few ArchitectNow employees have (or need) any Visual Studio licenses.
 
+### Reflector
+
+[http://www.airsquirrels.com/reflector/](http://www.airsquirrels.com/reflector/)
+
+A wireless screen-mirroring application
+
+Mirror your phone, tablet or computer to the big screen without wires or complicated setups. Present, teach or entertain from the palm of your hand. Reflector makes it easier than ever to share your device screen.
+
 ## Packages, Libraries, and other Tools
 
 ### Rimraf
